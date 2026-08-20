@@ -12,7 +12,7 @@ Hi there, I'm Naman! 👋I am a 5th-semester tech student who thrives on buildin
 ![](https://streak-stats.demolab.com/?user=NamanArora2709&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NamanArora2709&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
